@@ -6,7 +6,7 @@
 //Overload the | and & operators to compute the union and intersection of the set, and the << operator to send the set contents to a stream // 
 
 //Programmer: Heily Cabrera
-//Tester: Audrey Jacobson 
+//Tester: Audrey Tapia 
 
 // Group Project C //
 /***** Members *****/
